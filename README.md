@@ -16,3 +16,6 @@ Unit of Work & Repositories Framework - .NET Core, NET Standard, Entity Framewor
 
 [Specification Pattern](https://github.com/vkhorikov/SpecPattern)  
 Source code for the Specification Pattern in C# Pluralsight course
+
+[codecutout StringToExpression] (https://github.com/codecutout/StringToExpression)  
+Convert strings into .NET expressions
