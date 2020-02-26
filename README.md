@@ -1,5 +1,7 @@
 # Build It Better 
 
+1. Focus on Orchestration, not building stand-alone tools.
+
 [EdwinVW pitstop] (https://github.com/EdwinVW/pitstop)  
 This repo contains a sample application based on a Garage Management System for Pitstop - a fictitious garage. The primary goal of this sample is to demonstrate several software-architecture concepts like: Microservices, CQRS, Event Sourcing, Domain Driven Design (DDD), Eventual Consistency.
 
