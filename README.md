@@ -8,3 +8,11 @@ Example of API Gateway based on .NET Core, Ocelot, Consul
 
 [optimajet WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET)  
 WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service). https://workflowengine.io
+
+[OData Open Source .NET Stack] (https://github.com/OData)
+
+[URF.CORE] (https://github.com/urfnet/URF.Core)  
+Unit of Work & Repositories Framework - .NET Core, NET Standard, Entity Framework Core. 100% extensible & lightweight.
+
+[Specification Pattern](https://github.com/vkhorikov/SpecPattern)  
+Source code for the Specification Pattern in C# Pluralsight course
