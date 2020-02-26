@@ -19,3 +19,6 @@ Source code for the Specification Pattern in C# Pluralsight course
 
 [codecutout StringToExpression] (https://github.com/codecutout/StringToExpression)  
 Convert strings into .NET expressions
+
+[Netflix dispatch](https://github.com/Netflix/dispatch)  
+All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
